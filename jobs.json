@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T09:59:44.504Z",
-  "source": "manual-fix (link verification pass)",
+  "generatedAt": "2026-07-19T10:10:49.318Z",
+  "source": "restructure (applied-job removal workflow)",
   "categories": [
     {
       "key": "ds",
@@ -31,8 +31,7 @@
       "portalUrl": "https://www.genomicsengland.co.uk/careers/open-positions",
       "portalExact": false,
       "multi": null,
-      "portalNote": "original req expired (confirmed 19 Jul) — this links to their live open-positions list",
-      "applied": false
+      "portalNote": "original req expired (confirmed 19 Jul) — this links to their live open-positions list"
     },
     {
       "id": "ds-tesco",
@@ -45,8 +44,7 @@
       "portalUrl": "https://careers.tesco.com/en_GB/careers",
       "portalExact": false,
       "multi": "multiple openings",
-      "portalNote": "individual Tesco req links expire within days — search \"Data Scientist\" from here",
-      "applied": false
+      "portalNote": "individual Tesco req links expire within days — search \"Data Scientist\" from here"
     },
     {
       "id": "ds-dunnhumby",
@@ -58,8 +56,7 @@
       "aggUrl": "https://huntukvisasponsors.com/job/research-data-scientist-fbnmgxywyk44",
       "portalUrl": "https://www.dunnhumby.com/careers/data-science/",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ds-harnham-1",
@@ -71,8 +68,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-scientist",
       "portalUrl": "https://www.harnham.com/",
       "portalExact": false,
-      "multi": "agency-listed",
-      "applied": false
+      "multi": "agency-listed"
     },
     {
       "id": "ds-harnham-2",
@@ -84,8 +80,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-scientist",
       "portalUrl": "https://www.harnham.com/",
       "portalExact": false,
-      "multi": "agency-listed",
-      "applied": false
+      "multi": "agency-listed"
     },
     {
       "id": "ds-harnham-3",
@@ -97,8 +92,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-scientist",
       "portalUrl": "https://www.harnham.com/",
       "portalExact": false,
-      "multi": "agency-listed",
-      "applied": false
+      "multi": "agency-listed"
     },
     {
       "id": "ds-harnham-4",
@@ -110,8 +104,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-scientist",
       "portalUrl": "https://www.harnham.com/",
       "portalExact": false,
-      "multi": "agency-listed",
-      "applied": false
+      "multi": "agency-listed"
     },
     {
       "id": "ds-chattermill",
@@ -123,8 +116,7 @@
       "aggUrl": "https://huntukvisasponsors.com/job/data-scientist-at-chattermill-lmx8hxmj7uy",
       "portalUrl": "https://jobs.ashbyhq.com/chattermill/ee76441a-6929-406a-bd89-1b854ff7d4bc",
       "portalExact": true,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ml-asos-1",
@@ -137,8 +129,7 @@
       "portalUrl": "https://www.asoscareers.com/job-search",
       "portalExact": false,
       "multi": null,
-      "portalNote": "original req expired (confirmed 19 Jul) — search from ASOS's live job search",
-      "applied": false
+      "portalNote": "original req expired (confirmed 19 Jul) — search from ASOS's live job search"
     },
     {
       "id": "ml-lunio",
@@ -150,8 +141,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/machine-learning-engineer",
       "portalUrl": "https://www.lunio.ai/careers/roles",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ml-tcs",
@@ -163,8 +153,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/machine-learning-engineer",
       "portalUrl": "https://www.tcs.com/careers/united-kingdom",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ml-neara",
@@ -176,8 +165,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/machine-learning-engineer",
       "portalUrl": "https://jobs.ashbyhq.com/neara/b89c5fc1-3997-4a43-bb4e-99f791622742",
       "portalExact": true,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ml-lseg",
@@ -189,8 +177,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/machine-learning-engineer",
       "portalUrl": "https://lseg.wd3.myworkdayjobs.com/Careers",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ml-autodesk",
@@ -202,8 +189,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/machine-learning-engineer",
       "portalUrl": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/EMEA---United-Kingdom---London---Agar-St/Machine-Learning-Engineer-3D-Geometry--Multi-Modal_25WD93749-1",
       "portalExact": true,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ml-asos-2",
@@ -216,8 +202,7 @@
       "portalUrl": "https://www.asoscareers.com/job-search",
       "portalExact": false,
       "multi": "multiple openings",
-      "portalNote": "original req expired (confirmed 19 Jul) — search from ASOS's live job search",
-      "applied": false
+      "portalNote": "original req expired (confirmed 19 Jul) — search from ASOS's live job search"
     },
     {
       "id": "ml-approvalmax",
@@ -229,8 +214,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/machine-learning-engineer",
       "portalUrl": "https://approvalmax.com/careers",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ml-badoo",
@@ -243,8 +227,7 @@
       "portalUrl": "https://jobs.lever.co/bumbleinc/a9f321fc-b38d-450a-a3ba-3174e37ba0f3",
       "portalExact": true,
       "multi": null,
-      "portalNote": "Lever blocked automated re-check (403) on 19 Jul — likely just bot-blocking, but unconfirmed live",
-      "applied": false
+      "portalNote": "Lever blocked automated re-check (403) on 19 Jul — likely just bot-blocking, but unconfirmed live"
     },
     {
       "id": "da-relx",
@@ -256,8 +239,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-analyst",
       "portalUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx",
       "portalExact": false,
-      "multi": "3 openings",
-      "applied": false
+      "multi": "3 openings"
     },
     {
       "id": "da-socgen",
@@ -269,8 +251,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-analyst",
       "portalUrl": "https://careers.societegenerale.com/en/search",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "da-lendinvest",
@@ -282,8 +263,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-analyst",
       "portalUrl": "https://careers.lendinvest.com/jobs",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "da-petroineos",
@@ -295,8 +275,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-analyst",
       "portalUrl": "https://careers.petroineos.com/",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "da-landsec",
@@ -308,8 +287,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-analyst",
       "portalUrl": "https://landsec.com/careers/roles-and-opportunities",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "da-dechra",
@@ -321,8 +299,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-analyst",
       "portalUrl": "https://www.dechracareers.com/jobs/search",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "da-pfp",
@@ -334,8 +311,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-analyst",
       "portalUrl": "https://careers.placesforpeople.co.uk/jobs/",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "da-leeds",
@@ -348,8 +324,7 @@
       "portalUrl": "https://jobs.leeds.gov.uk/",
       "portalExact": false,
       "multi": null,
-      "portalNote": "original req + gov apprenticeship mirror both 404 (confirmed 19 Jul) — apprenticeship closed fast, search current Leeds vacancies here",
-      "applied": false
+      "portalNote": "original req + gov apprenticeship mirror both 404 (confirmed 19 Jul) — apprenticeship closed fast, search current Leeds vacancies here"
     },
     {
       "id": "ae-relay",
@@ -361,8 +336,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/analytics-engineer",
       "portalUrl": "https://uk.linkedin.com/jobs/view/senior-analytics-engineer-at-relay-technologies-4412672914",
       "portalExact": false,
-      "multi": "no dedicated careers site found — LinkedIn listing",
-      "applied": false
+      "multi": "no dedicated careers site found — LinkedIn listing"
     },
     {
       "id": "ae-accurx",
@@ -374,8 +348,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/analytics-engineer",
       "portalUrl": "https://jobs.ashbyhq.com/accurx/42be1c1b-ad79-4c95-b8c0-bf73995a14bd",
       "portalExact": true,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ae-bauer",
@@ -388,8 +361,7 @@
       "portalUrl": "https://jobs.bauermedia.com/",
       "portalExact": false,
       "multi": null,
-      "portalNote": "original listing gone (HTTP 410, confirmed 19 Jul) — this is Bauer Media's live jobs board instead",
-      "applied": false
+      "portalNote": "original listing gone (HTTP 410, confirmed 19 Jul) — this is Bauer Media's live jobs board instead"
     },
     {
       "id": "ae-leonardo",
@@ -402,8 +374,7 @@
       "portalUrl": "https://careers.uk.leonardo.com/",
       "portalExact": false,
       "multi": "2 openings",
-      "portalNote": "original listing gone (HTTP 410, confirmed 19 Jul) — this is Leonardo UK's live careers search instead",
-      "applied": false
+      "portalNote": "original listing gone (HTTP 410, confirmed 19 Jul) — this is Leonardo UK's live careers search instead"
     },
     {
       "id": "ae-asos-3",
@@ -415,8 +386,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/analytics-engineer",
       "portalUrl": "https://www.asoscareers.com/job-search",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ae-hcl",
@@ -428,8 +398,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/analytics-engineer",
       "portalUrl": "https://careers.hcltech.com/",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ae-burohappold",
@@ -441,8 +410,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/analytics-engineer",
       "portalUrl": "https://vacancies.burohappold.com/",
       "portalExact": false,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ae-point72",
@@ -454,8 +422,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/analytics-engineer",
       "portalUrl": "https://careers.point72.com/CSJobDetail?jobName=software-engineer-macro-quant-analytics-technology&jobCode=PIT-0014783&location=New+York+%7C+London&locale=English&retURL=%2FCSCareerSearch",
       "portalExact": true,
-      "multi": null,
-      "applied": false
+      "multi": null
     },
     {
       "id": "ae-dft",
@@ -467,8 +434,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/analytics-engineer",
       "portalUrl": "https://www.gov.uk/government/organisations/dft-operator-limited",
       "portalExact": false,
-      "multi": "govt rail holding co. — likely under an operating brand's careers site",
-      "applied": false
+      "multi": "govt rail holding co. — likely under an operating brand's careers site"
     }
   ]
 }
