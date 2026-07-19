@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T10:10:49.318Z",
+  "generatedAt": "2026-07-19T10:33:05.699Z",
   "source": "restructure (applied-job removal workflow)",
   "categories": [
     {
@@ -20,19 +20,6 @@
     }
   ],
   "jobs": [
-    {
-      "id": "ds-genomics",
-      "cat": "ds",
-      "title": "Lead Genomic Data Scientist – Cancer",
-      "company": "Genomics England Limited",
-      "location": "Cambridge / Leeds / London",
-      "posted": "9 Jul",
-      "aggUrl": "https://huntukvisasponsors.com/job/lead-genomic-data-scientist-cancer-we-have-office-locations-in-cambridge-leeds-london-at-genomics-england-a6cidgbsmq-6",
-      "portalUrl": "https://www.genomicsengland.co.uk/careers/open-positions",
-      "portalExact": false,
-      "multi": null,
-      "portalNote": "original req expired (confirmed 19 Jul) — this links to their live open-positions list"
-    },
     {
       "id": "ds-tesco",
       "cat": "ds",
