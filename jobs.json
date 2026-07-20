@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T10:54:02.412376Z",
+  "generatedAt": "2026-07-20T13:53:08.581Z",
   "source": "restructure (applied-job removal workflow)",
   "categories": [
     {
@@ -31,7 +31,7 @@
       "portalUrl": "https://careers.tesco.com/en_GB/careers",
       "portalExact": false,
       "multi": "multiple openings",
-      "portalNote": "individual Tesco req links expire within days \u2014 search \"Data Scientist\" from here",
+      "portalNote": "individual Tesco req links expire within days — search \"Data Scientist\" from here",
       "jdUrl": "https://huntukvisasponsors.com/job/data-scientist-at-tesco-technology-q7wbvksstozo"
     },
     {
@@ -48,22 +48,9 @@
       "jdUrl": "https://huntukvisasponsors.com/job/research-data-scientist-fbnmgxywyk44"
     },
     {
-      "id": "ds-harnham-1",
-      "cat": "ds",
-      "title": "Senior Data Scientist",
-      "company": "Harnham Search & Selection (agency)",
-      "location": "London",
-      "posted": "8 Jul",
-      "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-scientist",
-      "portalUrl": "https://www.harnham.com/",
-      "portalExact": false,
-      "multi": "agency-listed",
-      "aggregateOnly": true
-    },
-    {
       "id": "ds-harnham-2",
       "cat": "ds",
-      "title": "Data Scientist \u2013 Propensity Modelling, CLV",
+      "title": "Data Scientist – Propensity Modelling, CLV",
       "company": "Harnham Search & Selection (agency)",
       "location": "England",
       "posted": "8 Jul",
@@ -76,7 +63,7 @@
     {
       "id": "ds-harnham-3",
       "cat": "ds",
-      "title": "Data Scientist \u2013 Causal Inference & Experimentation",
+      "title": "Data Scientist – Causal Inference & Experimentation",
       "company": "Harnham Search & Selection (agency)",
       "location": "England",
       "posted": "8 Jul",
@@ -123,7 +110,7 @@
       "portalUrl": "https://www.asoscareers.com/job-search",
       "portalExact": false,
       "multi": null,
-      "portalNote": "original req expired (confirmed 19 Jul) \u2014 search from ASOS's live job search",
+      "portalNote": "original req expired (confirmed 19 Jul) — search from ASOS's live job search",
       "jdUrl": "https://huntukvisasponsors.com/job/machine-learning-engineer-at-asos-com-aql6cprrh69w"
     },
     {
@@ -142,7 +129,7 @@
     {
       "id": "ml-tcs",
       "cat": "ml",
-      "title": "AI Engineer \u2013 Data & Reporting",
+      "title": "AI Engineer – Data & Reporting",
       "company": "Tata Consultancy Services UK Limited",
       "location": "London",
       "posted": "15 Jul",
@@ -155,7 +142,7 @@
     {
       "id": "ml-neara",
       "cat": "ml",
-      "title": "Staff ML Engineer (Platform) \u2014 relocation from Australia offered",
+      "title": "Staff ML Engineer (Platform) — relocation from Australia offered",
       "company": "Neara Software Ltd",
       "location": "London",
       "posted": "14 Jul",
@@ -181,7 +168,7 @@
     {
       "id": "ml-autodesk",
       "cat": "ml",
-      "title": "ML Engineer \u2013 3D Geometry / Multi-Modal",
+      "title": "ML Engineer – 3D Geometry / Multi-Modal",
       "company": "Autodesk Limited",
       "location": "London",
       "posted": "13 Jul",
@@ -202,7 +189,7 @@
       "portalUrl": "https://www.asoscareers.com/job-search",
       "portalExact": false,
       "multi": "multiple openings",
-      "portalNote": "original req expired (confirmed 19 Jul) \u2014 search from ASOS's live job search",
+      "portalNote": "original req expired (confirmed 19 Jul) — search from ASOS's live job search",
       "jdUrl": "https://huntukvisasponsors.com/job/senior-machine-learning-engineer-recommendations-at-asos-com-owosllaiwbki"
     },
     {
@@ -229,7 +216,7 @@
       "portalUrl": "https://jobs.lever.co/bumbleinc/a9f321fc-b38d-450a-a3ba-3174e37ba0f3",
       "portalExact": true,
       "multi": null,
-      "portalNote": "Lever blocked automated re-check (403) on 19 Jul \u2014 likely just bot-blocking, but unconfirmed live",
+      "portalNote": "Lever blocked automated re-check (403) on 19 Jul — likely just bot-blocking, but unconfirmed live",
       "jdUrl": "https://huntukvisasponsors.com/job/principal-machine-learning-engineer-matching-and-recommendations-uk-based-upj335fjbt5c"
     },
     {
@@ -249,7 +236,7 @@
       "id": "da-socgen",
       "cat": "da",
       "title": "Trainee Data Analyst",
-      "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+      "company": "Société Générale",
       "location": "London",
       "posted": "10 Jul",
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-analyst",
@@ -334,7 +321,7 @@
       "portalUrl": "https://jobs.leeds.gov.uk/",
       "portalExact": false,
       "multi": null,
-      "portalNote": "original req + gov apprenticeship mirror both 404 (confirmed 19 Jul) \u2014 apprenticeship closed fast, search current Leeds vacancies here",
+      "portalNote": "original req + gov apprenticeship mirror both 404 (confirmed 19 Jul) — apprenticeship closed fast, search current Leeds vacancies here",
       "jdUrl": "https://huntukvisasponsors.com/job/apprentice-data-analyst-at-leeds-city-council-v1hwjxh0om2i"
     },
     {
@@ -347,7 +334,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/analytics-engineer",
       "portalUrl": "https://uk.linkedin.com/jobs/view/senior-analytics-engineer-at-relay-technologies-4412672914",
       "portalExact": false,
-      "multi": "no dedicated careers site found \u2014 LinkedIn listing",
+      "multi": "no dedicated careers site found — LinkedIn listing",
       "jdUrl": "https://huntukvisasponsors.com/job/senior-analytics-engineer-at-relay-technologies-tp9lh4obouox"
     },
     {
@@ -374,7 +361,7 @@
       "portalUrl": "https://jobs.bauermedia.com/",
       "portalExact": false,
       "multi": null,
-      "portalNote": "original listing gone (HTTP 410, confirmed 19 Jul) \u2014 this is Bauer Media's live jobs board instead",
+      "portalNote": "original listing gone (HTTP 410, confirmed 19 Jul) — this is Bauer Media's live jobs board instead",
       "jdUrl": "https://huntukvisasponsors.com/job/lead-analytics-engineer-at-bauer-media-outdoor-uk-lb4irmyabqao"
     },
     {
@@ -388,7 +375,7 @@
       "portalUrl": "https://careers.uk.leonardo.com/",
       "portalExact": false,
       "multi": "2 openings",
-      "portalNote": "original listing gone (HTTP 410, confirmed 19 Jul) \u2014 this is Leonardo UK's live careers search instead",
+      "portalNote": "original listing gone (HTTP 410, confirmed 19 Jul) — this is Leonardo UK's live careers search instead",
       "jdUrl": "https://huntukvisasponsors.com/job/defence-analytics-engineer-at-leonardo-hqclkusb6jel"
     },
     {
@@ -453,7 +440,7 @@
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/analytics-engineer",
       "portalUrl": "https://www.gov.uk/government/organisations/dft-operator-limited",
       "portalExact": false,
-      "multi": "govt rail holding co. \u2014 likely under an operating brand's careers site",
+      "multi": "govt rail holding co. — likely under an operating brand's careers site",
       "jdUrl": "https://huntukvisasponsors.com/job/analytics-engineer-at-dft-operator-mhssuw5xp8l1"
     }
   ]
