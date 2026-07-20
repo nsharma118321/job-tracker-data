@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T13:53:08.581Z",
+  "generatedAt": "2026-07-20T14:46:58.085Z",
   "source": "restructure (applied-job removal workflow)",
   "categories": [
     {
@@ -85,19 +85,6 @@
       "portalExact": false,
       "multi": "agency-listed",
       "aggregateOnly": true
-    },
-    {
-      "id": "ds-chattermill",
-      "cat": "ds",
-      "title": "Data Scientist",
-      "company": "Chattermill Analytics Limited",
-      "location": "UK (remote/hybrid)",
-      "posted": "8 Jul",
-      "aggUrl": "https://huntukvisasponsors.com/job/data-scientist-at-chattermill-lmx8hxmj7uy",
-      "portalUrl": "https://jobs.ashbyhq.com/chattermill/ee76441a-6929-406a-bd89-1b854ff7d4bc",
-      "portalExact": true,
-      "multi": null,
-      "jdUrl": "https://huntukvisasponsors.com/job/data-scientist-at-chattermill-lmx8hxmj7uy"
     },
     {
       "id": "ml-asos-1",
