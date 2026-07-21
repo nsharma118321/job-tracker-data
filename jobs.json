@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T14:46:58.085Z",
+  "generatedAt": "2026-07-21T18:36:18.209Z",
   "source": "restructure (applied-job removal workflow)",
   "categories": [
     {
@@ -66,19 +66,6 @@
       "title": "Data Scientist – Causal Inference & Experimentation",
       "company": "Harnham Search & Selection (agency)",
       "location": "England",
-      "posted": "8 Jul",
-      "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-scientist",
-      "portalUrl": "https://www.harnham.com/",
-      "portalExact": false,
-      "multi": "agency-listed",
-      "aggregateOnly": true
-    },
-    {
-      "id": "ds-harnham-4",
-      "cat": "ds",
-      "title": "Product Analyst / Data Scientist",
-      "company": "Harnham Search & Selection (agency)",
-      "location": "London",
       "posted": "8 Jul",
       "aggUrl": "https://huntukvisasponsors.com/jobs/role/data-scientist",
       "portalUrl": "https://www.harnham.com/",
