@@ -6,6 +6,7 @@ on:
     paths:
       - 'jobs.json'
       - 'scripts/filter_jobs.py'
+      - '.github/workflows/filter-jobs.yml'
   workflow_dispatch:
 
 permissions:
