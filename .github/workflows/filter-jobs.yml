@@ -1,0 +1,35 @@
+name: Filter Extension Jobs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'jobs.json'
+      - 'scripts/filter_jobs.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  filter:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Keep target roles and remove seen jobs
+        run: python scripts/filter_jobs.py
+      - name: Commit filtered feed
+        run: |
+          if git diff --quiet -- jobs.json; then
+            echo "No feed changes required"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobs.json
+          git commit -m "Filter extension jobs [skip ci]"
+          git push
